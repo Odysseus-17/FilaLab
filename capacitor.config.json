@@ -1,0 +1,6 @@
+{
+  "appId": "co.edu.amigo.filalab",
+  "appName": "FilaLab",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}

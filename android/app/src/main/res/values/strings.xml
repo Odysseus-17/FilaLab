@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FilaLab</string>
+    <string name="title_activity_main">FilaLab</string>
+    <string name="package_name">co.edu.amigo.filalab</string>
+    <string name="custom_url_scheme">co.edu.amigo.filalab</string>
+</resources>
